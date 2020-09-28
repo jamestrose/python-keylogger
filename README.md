@@ -8,8 +8,8 @@ Basic Python Keylogger, I will continue to improve the detection rate according 
 
 ## Build status
 1.0 is the current build:
+[![GitHub release](https://img.shields.io/github/release/jamestrose/python-keylogger/releases/tag/1.0)](https://github.com/jamestrose/python-keylogger/releases/)
 
-[![GitHub release](https://github.com/jamestrose/python-keylogger/releases/tag/1.0)](https://github.com/jamestrose/python-keylogger/releases/)
 
 ## Code style
 If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
