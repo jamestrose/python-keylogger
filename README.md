@@ -8,7 +8,7 @@ Basic Python Keylogger, I will continue to improve the detection rate according 
 
 ## Build status
 1.0 is the current build:
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/jamestrose/python-keylogger/releases/)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/jamestrose/python-keylogger/releases/1.0)
 
 
 ## Code style
