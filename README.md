@@ -4,7 +4,7 @@ Basic Python Keylogger, I will continue to improve the detection rate according 
 ## Build status
 1.0 is the current build:
 
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
+[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)]
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
 
 ## Code style
