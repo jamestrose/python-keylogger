@@ -9,12 +9,12 @@ Basic Python Keylogger, I will continue to improve the detection rate according 
 ## Build status
 1.0 is the current build:
 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/jamestrose/python-keylogger/releases/)
 
 ## Code style
 If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![js-standard-style](https://github.com/jamestrose/python-keylogger/releases/tag/1.0)](https://github.com/feross/standard)
  
 ## Screenshots
 Include logo/demo screenshot etc.
