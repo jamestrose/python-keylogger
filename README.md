@@ -1,14 +1,10 @@
 ## Project title
-A little info about your project and/ or overview that explains **what** the project is about.
-
-## Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+Basic Python Keylogger, I will continue to improve the detection rate according to virustotal.com
 
 ## Build status
-Build status of continus integration i.e. travis, appveyor etc. Ex. - 
+1.0 is the current build:
 
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
+[![Build Status](https://https://github.com/jamestrose/python-keylogger)](https://github.com/jamestrose/python-keylogger)
 
 ## Code style
 If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
