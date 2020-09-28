@@ -1,7 +1,7 @@
 ## Project title
 Basic Python Keylogger, I will continue to improve the detection rate according to virustotal.com
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 
 
@@ -9,7 +9,7 @@ Basic Python Keylogger, I will continue to improve the detection rate according 
 ## Build status
 1.0 is the current build:
 
-[![Forks][forks-shield]][https://github.com/jamestrose/python-keylogger/branches]
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
 ## Code style
 If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
